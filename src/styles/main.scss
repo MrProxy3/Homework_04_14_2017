@@ -1,0 +1,17 @@
+@import "compass/reset";
+
+body {
+  width: 100%;
+}
+
+th {
+  font-weight: bold;
+}
+
+.table__cell--width {
+  min-width: 200px;
+}
+
+.align--center {
+  text-align: center;
+}
